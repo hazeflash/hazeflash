@@ -1,4 +1,4 @@
-* {
-  text-align: center;
-  line-height: 20px;
+.container {
+  width: 150px;
+  margin: auto;
 }
